@@ -2,7 +2,7 @@ body {
     background-color: #f5f5dd;
 }
 
-.s1 {
+.s1,.s2,.s3,.s4 {
     width: 120px;
     height: 120px;
     color: black;
@@ -11,25 +11,13 @@ body {
 }
 
 .s2 {
-    width: 120px;
-    height: 120px;
-    color: black;
-    margin: 30px;
     background-color: rgba(0, 0, 0, 0.849);
 }
 
 .s3 {
-    width: 120px;
-    height: 120px;
-    color: black;
-    margin: 30px;
     background-color: rgba(0, 0, 0, 0.603);
 }
 
 .s4 {
-    width: 120px;
-    height: 120px;
-    color: black;
-    margin: 30px;
     background-color: rgba(0, 0, 0, 0.308);
 }
